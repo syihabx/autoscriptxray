@@ -728,10 +728,10 @@ cat > /usr/local/etc/xray/config.json << END
     {
        "protocol": "wireguard",
        "settings": {
-          "secretKey": "yD2iamc8Px/vzQh5eXSJP1XG2CTJl+nK+Qf5enmfbFA=",
+          "secretKey": "4B3danbpZ4G+Ez8aQZn0rkw481YJuEuL+t5NjocauXk=",
           "address": [
              "172.16.0.2/32",
-             "2606:4700:110:86b8:2bfb:c840:6743:98b2/128"
+             "2606:4700:110:84f5:5ad3:e2f7:eb16:8b56/128"
              ],
              "peers": [
                 {
